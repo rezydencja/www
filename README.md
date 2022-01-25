@@ -3,52 +3,52 @@
 
 [Is e-Residency for me? | by Hannah Brown | Mar 2021 | E-residency](https://e-resident.gov.ee/blog/posts/is-e-residency-for-me)
 
-> We’re frequently asked by people whether e-Residency is a good solution for them.
-> 
-> The answer to this seemingly simple question very much depends on individual circumstances, which are certainly diverse in the e-resident community…
-> 
-> Since the beginning, [we have been very clear](https://medium.com/e-residency-blog/heres-how-you-can-create-an-eu-company-with-eu-banking-anywhere-on-earth-cbba47386489) that e-Residency suits certain business types and objectives, sectors, or geographies better than others. This is largely thanks to the **inherently** **digital nature** of e-Residency itself.
-> 
-> E-Residency’s unique, government-issued digital identity allows people outside of Estonia to verify themselves securely online and access diverse public and private Estonian e-services and the EU market from wherever they are in the world.
-> 
-> It follows therefore that a major motivation and value-driver of e-residents to start a company based in the EU and run it remotely comes down to **location-independence**. From digital nomads to business owners constantly on the road, any tools that support **mobile business management** are essential, e-Residency being no exception.
-> 
-> Nearly 80,000 people from over 170 countries have applied for e-Residency since the programme began in 2014. E-residents have founded over 15,000 companies. While our e-residents are as diverse as any global community, we do see a few common value-drivers behind their decisions to take up e-Residency, like location (or lack of), business type, industry, and personal goals.
-> 
-> To illustrate further, we thought it would be interesting to present to you some of the most suitable cases by introducing you to real life e-residents.
-> 
-> This way, we hope we can go someway to answer the overarching, million dollar question…
-> 
-> ### **Is e-Residency for me?**
-> 
-> In general, e-Residency is best suited to entrepreneurs or freelancers who:
-> 
-> -   sell services or digital products online in a broad range of sectors, including IT, marketing, publishing, consulting and more,
-> -   want to reduce bureaucracy and paperwork, in order to save time and money,
-> -   do not have a fixed location, or
-> -   want their business to stay in — or enter — the EU market so they can expand regionally or globally, trade in euros, access financial services or EU funding, or stay within the EU’s legal frameworks.
-> 
-> Let’s break these down a little more by considering a few common scenarios.
-> 
-> ### **1\. I’m based in Berlin and work full-time but also have a small side-business providing editing and translation services to a few clients around the EU. Maybe one day it will grow from a side project to my full time business.**
-> 
-> #### **Is e-Residency for me?**
-> 
-> Yes — you have described an extremely common setup among our e-resident community. A host of full-time and part-time freelancers, consultants, and solopreneurs provide services or digital products to clients through their Estonian companies in a variety of sectors, including IT, marketing, management consulting, coaching, publishing, and more.
-> 
-> Why? Because:
-> 
-> -   it’s quick and easy to start your private limited company or OÜ
-> -   running business fully online and remotely takes minimal time and resources
-> -   invoicing and reporting can be automated or delegated to expert service providers (like those on the e-Residency Marketplace).
-> 
-> These were just some of the benefits that attracted Italian e-resident Mike, who builds, markets, and supports multiple SaaS products through his Estonian company. _Read his story:_
-> 
-> [](https://e-resident.gov.ee/the-improvising-entrepreneur/ "The improvising entrepreneur")
-> 
-> ![](https://e-resident.gov.ee/wp-content/uploads/2021/05/1_TwKJuVC1x7gB8qEylsSbYg.jpeg)
-> 
-> The improvising entrepreneur
+We’re frequently asked by people whether e-Residency is a good solution for them.
+ 
+The answer to this seemingly simple question very much depends on individual circumstances, which are certainly diverse in the e-resident community…
+ 
+Since the beginning, [we have been very clear](https://medium.com/e-residency-blog/heres-how-you-can-create-an-eu-company-with-eu-banking-anywhere-on-earth-cbba47386489) that e-Residency suits certain business types and objectives, sectors, or geographies better than others. This is largely thanks to the **inherently** **digital nature** of e-Residency itself.
+ 
+E-Residency’s unique, government-issued digital identity allows people outside of Estonia to verify themselves securely online and access diverse public and private Estonian e-services and the EU market from wherever they are in the world.
+ 
+It follows therefore that a major motivation and value-driver of e-residents to start a company based in the EU and run it remotely comes down to **location-independence**. From digital nomads to business owners constantly on the road, any tools that support **mobile business management** are essential, e-Residency being no exception.
+ 
+Nearly 80,000 people from over 170 countries have applied for e-Residency since the programme began in 2014. E-residents have founded over 15,000 companies. While our e-residents are as diverse as any global community, we do see a few common value-drivers behind their decisions to take up e-Residency, like location (or lack of), business type, industry, and personal goals.
+ 
+ To illustrate further, we thought it would be interesting to present to you some of the most suitable cases by introducing you to real life e-residents.
+ 
+ This way, we hope we can go someway to answer the overarching, million dollar question…
+ 
+### **Is e-Residency for me?**
+ 
+In general, e-Residency is best suited to entrepreneurs or freelancers who:
+
+-   sell services or digital products online in a broad range of sectors, including IT, marketing, publishing, consulting and more,
+-   want to reduce bureaucracy and paperwork, in order to save time and money,
+-   do not have a fixed location, or
+-   want their business to stay in — or enter — the EU market so they can expand regionally or globally, trade in euros, access financial services or EU funding, or stay within the EU’s legal frameworks.
+ 
+Let’s break these down a little more by considering a few common scenarios.
+ 
+### **1\. I’m based in Berlin and work full-time but also have a small side-business providing editing and translation services to a few clients around the EU. Maybe one day it will grow from a side project to my full time business.**
+ 
+### **Is e-Residency for me?**
+ 
+ Yes — you have described an extremely common setup among our e-resident community. A host of full-time and part-time freelancers, consultants, and solopreneurs provide services or digital products to clients through their Estonian companies in a variety of sectors, including IT, marketing, management consulting, coaching, publishing, and more.
+
+### Why? Because:
+
+-   it’s quick and easy to start your private limited company or OÜ
+-   running business fully online and remotely takes minimal time and resources
+-   invoicing and reporting can be automated or delegated to expert service providers (like those on the e-Residency Marketplace).
+ 
+These were just some of the benefits that attracted Italian e-resident Mike, who builds, markets, and supports multiple SaaS products through his Estonian company. _Read his story:_
+ 
+ [](https://e-resident.gov.ee/the-improvising-entrepreneur/ "The improvising entrepreneur")
+ 
+ ![](https://e-resident.gov.ee/wp-content/uploads/2021/05/1_TwKJuVC1x7gB8qEylsSbYg.jpeg)
+ 
+The improvising entrepreneur
 > 
 > E-Residency allows Mike Rubini time to focus on growing his SaaS business and doing what he loves — playing jazz
 > 
