@@ -3,6 +3,14 @@
 
 ## ID-cards & Software
 
+[Configuring browsers for using ID-card - ID.ee](https://www.id.ee/en/article/configuring-browsers-for-using-id-card/)
+
+> # Configuring browsers for using ID-card
+> 
+> To use e-services such as online banking, state portal and be able to confirm actions and transactions and digitally sign documents with your ID-card, you first have to configure your web browsers. Your browser must allow use of the ID-card certificates.
+> 
+> If you experience any problems with using ID-card on the web, check your browser settings. Our step-by-step instructions will make the browser configuration go quickly and easily!
+
 Having problems with your ID card? Here we cover the most common issues with in-depth troubleshooting and step-by-step guides.
 
 + [Frequently asked questions](https://www.xolo.io/zz-en/faq/xolo-leap/category/id-cards--software)
