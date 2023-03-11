@@ -9,14 +9,25 @@ Having problems with your ID card? Here we cover the most common issues with in-
 
 + [Using mobile-ID - ID.ee](https://www.id.ee/en/article/using-mobile-id/)
 
-+ [Telecom - Work in Estonia](https://www.workinestonia.com/living-in-estonia/telecom/)
 
-Estonia has three major cell phone service providers – [Telia](https://www.telia.ee/en/), [Elisa](https://www.elisa.ee/et) and [Tele2](https://tele2.ee/) – and three major TV/Internet/landline providers – [Telia](https://www.telia.ee/en/), [Elisa](https://www.elisa.ee/et) and [STV](http://stv.ee/)
+## Software, Reiner SCT Card Reader 
+
++ [REINER SCT - en - Support Anfrage](https://www.reiner-sct.com/lang/en/support/support-anfrage/)
++ [cyberJack® RFID komfort (USB) - Chipkartenleser-Shop REINER SCT](https://shop.reiner-sct.com/chipkartenleser-fuer-die-sicherheitsklasse-3/cyberjack-rfid-komfort-usb-2718700000?locale=en)
+
++ [Drivers REINER SCT - Support Anfrage](https://www.reiner-sct.com/support/support-anfrage/?productGroup=77304735&product=77304822&q=driver&os=Linux#choice5)
++ [rezydencja/REINER_SCT_Authenticator_php](https://github.com/rezydencja/REINER_SCT_Authenticator_php)
+[rezydencja/REINER_SCT_Authenticator_php](https://github.com/rezydencja/REINER_SCT_Authenticator_php)
+
++ [Firefox addon PKCS11 module loader](https://addons.mozilla.org/en-US/firefox/addon/pkcs11-module-loader/)
 
 
 ## telefon
 
 + [Tele2: piiramatud paketid ja mõistlikud hinnad!](https://tele2.ee/)
++ [Telecom - Work in Estonia](https://www.workinestonia.com/living-in-estonia/telecom/)
+
+Estonia has three major cell phone service providers – [Telia](https://www.telia.ee/en/), [Elisa](https://www.elisa.ee/et) and [Tele2](https://tele2.ee/) – and three major TV/Internet/landline providers – [Telia](https://www.telia.ee/en/), [Elisa](https://www.elisa.ee/et) and [STV](http://stv.ee/)
 
 
 
