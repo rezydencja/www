@@ -1,5 +1,12 @@
 # eRezydencja.pl
 
+
+## ID-cards & Software
+
+Having problems with your ID card? Here we cover the most common issues with in-depth troubleshooting and step-by-step guides.
+
++ [Frequently asked questions](https://www.xolo.io/zz-en/faq/xolo-leap/category/id-cards--software)
+
 + [Using mobile-ID - ID.ee](https://www.id.ee/en/article/using-mobile-id/)
 
 + [Telecom - Work in Estonia](https://www.workinestonia.com/living-in-estonia/telecom/)
