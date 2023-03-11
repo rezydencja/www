@@ -1,5 +1,17 @@
 # eRezydencja.pl
 
++ [Using mobile-ID - ID.ee](https://www.id.ee/en/article/using-mobile-id/)
+
++ [Telecom - Work in Estonia](https://www.workinestonia.com/living-in-estonia/telecom/)
+
+Estonia has three major cell phone service providers – [Telia](https://www.telia.ee/en/), [Elisa](https://www.elisa.ee/et) and [Tele2](https://tele2.ee/) – and three major TV/Internet/landline providers – [Telia](https://www.telia.ee/en/), [Elisa](https://www.elisa.ee/et) and [STV](http://stv.ee/)
+
+
+## telefon
+
++ [Tele2: piiramatud paketid ja mõistlikud hinnad!](https://tele2.ee/)
+
+
 
 [Is e-Residency for me? | by Hannah Brown | Mar 2021 | E-residency](https://e-resident.gov.ee/blog/posts/is-e-residency-for-me)
 
